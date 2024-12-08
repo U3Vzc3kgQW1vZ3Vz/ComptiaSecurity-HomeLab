@@ -1,0 +1,1 @@
+A collection of my personal homelab working with Kali linux; Windows Server; pentesting tookits such as metasploit, john, mimikatz,..; and inspecting malware. The labs I'm following is from the book "Principles of Computer Security_ CompTIA Security+ and Beyond Lab Manual(SY0-601)"
